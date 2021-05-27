@@ -4,8 +4,9 @@
 <br><br>
 <b>Note ::</b> Replace the <b>hackerone.com</b> with your desired domain. And you are ready to go.
 <br><br>
+
 🔍 Directory listing vulnerabilities|
------------------- | 
+------------------ |
 ```
 site:hackerone.com intitle:index.of
 ```
